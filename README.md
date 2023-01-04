@@ -1,2 +1,4 @@
 # Web-Development
-webdev project
+First Web Development Project
+
+All about HTML and CSS
