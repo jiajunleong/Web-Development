@@ -3,4 +3,4 @@ First Web Development Project
 
 All about HTML and CSS
 
-![alt text](Web Development/photos/webdev.PNG)
+![alt text](./Web Development/photos/webdev.PNG)
