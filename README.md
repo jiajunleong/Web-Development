@@ -3,4 +3,4 @@ First Web Development Project
 
 All about HTML and CSS
 
-![alt text](./Web Development/photos/webdev.PNG)
+![alt text](https://github.com/jiajunleong/Web-Development/blob/main/Web%20Development/photos/webdev.PNG)
